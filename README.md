@@ -8,7 +8,7 @@ window 기능켜기 SMB 1.0/CIFS 파일 공유 지원<br>
 
 putty 실행 - 아이피 입력 - interezen/interezen<br>
 
-linux instruction<br>
+리눅스 명령어<br>
 ll - 목록 불러오기<br>
 rm 삭제<br>
 pwd - 현재 경로 보기<br>
